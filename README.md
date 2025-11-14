@@ -269,12 +269,6 @@ MAX_FACE_SIZE = 1000         # Maximum face detection size
 - Privacy policy compliance
 - System limitations awareness
 
-## 📞 Support & Contact
-
-For technical support, feature requests, or deployment assistance:
-- **Email**: security-systems@university.edu
-- **Documentation**: [Project Wiki](https://github.com/palamakulameghanadhgoud/ml/wiki)
-- **Issues**: [GitHub Issues](https://github.com/palamakulameghanadhgoud/ml/issues)
 
 ## 📜 License
 
@@ -299,5 +293,5 @@ This system is designed as a security tool to enhance campus safety. It should b
 
 **Version**: 1.0.0  
 **Last Updated**: November 2025  
-**Developed by**: Campus Security Technology Team
+**Developed by**: srihan rao, meghanadh goud, yashwanth sai 
 
