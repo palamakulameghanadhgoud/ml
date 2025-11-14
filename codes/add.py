@@ -25,6 +25,5 @@ for row in range(2, sheet.max_row + 1):
 
     sheet.cell(row=row, column=imgdata_col).value = f"{university_id}_photo.jpg"
 
-
 workbook.save(file_path)
 print("Excel updated with Folder Path and Img Data columns!")

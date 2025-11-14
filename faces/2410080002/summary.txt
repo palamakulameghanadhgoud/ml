@@ -1,0 +1,31 @@
+Trained Face Recognition Results
+Person: 2410080002
+Total matches: 27
+
+Match 1: Run 2, Confidence: 0.830
+Match 2: Run 4, Confidence: 0.810
+Match 3: Run 7, Confidence: 0.830
+Match 4: Run 8, Confidence: 0.890
+Match 5: Run 11, Confidence: 0.830
+Match 6: Run 13, Confidence: 0.810
+Match 7: Run 20, Confidence: 0.830
+Match 8: Run 20, Confidence: 0.810
+Match 9: Run 21, Confidence: 0.840
+Match 10: Run 26, Confidence: 0.860
+Match 11: Run 28, Confidence: 0.900
+Match 12: Run 29, Confidence: 0.940
+Match 13: Run 30, Confidence: 0.870
+Match 14: Run 31, Confidence: 0.900
+Match 15: Run 33, Confidence: 0.930
+Match 16: Run 34, Confidence: 0.870
+Match 17: Run 35, Confidence: 0.910
+Match 18: Run 36, Confidence: 0.910
+Match 19: Run 37, Confidence: 0.870
+Match 20: Run 38, Confidence: 0.930
+Match 21: Run 41, Confidence: 0.880
+Match 22: Run 44, Confidence: 0.850
+Match 23: Run 51, Confidence: 0.850
+Match 24: Run 52, Confidence: 0.810
+Match 25: Run 54, Confidence: 0.830
+Match 26: Run 55, Confidence: 0.840
+Match 27: Run 57, Confidence: 0.820
